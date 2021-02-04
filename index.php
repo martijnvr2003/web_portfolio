@@ -11,8 +11,8 @@
             <nav>
                 <ul>
                     <li class="active"><a href="#">Home</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Portfolio</a></li>
+                    <li><a href="about.php">About</a></li>
+                    <li><a href="portfolio.php">Portfolio</a></li>
                 </ul>
             </nav>
         </header>
