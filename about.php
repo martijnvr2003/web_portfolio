@@ -20,10 +20,10 @@
 
     <div class="findout">
         <img class="profiel" src="assets/img/martijncrop.jpg" alt="assets/img/pro.jpg">
-            <!-- <div class="titel-about"> -->
+            <div class="titel-about">
                 <h2>Martijn van Rooijen</h2>
                 <div class="informatie">lorem ipsum</div>
-            <!-- </div> -->
+            </div>
     </div>
 
     
